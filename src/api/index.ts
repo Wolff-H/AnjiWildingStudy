@@ -1,0 +1,9 @@
+function getInfo()
+{
+
+}
+
+export
+{
+    getInfo,
+}
